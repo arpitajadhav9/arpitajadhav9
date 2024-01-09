@@ -1,3 +1,4 @@
+![logo](https://github.com/arpitajadhav9/arpitajadhav9/blob/main/git%20banner.png)
 <h1 align="center">Hi 👋, I'm Arpita Jadhav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
