@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpitajadhav9](https://github.com/arpitajadhav9)
 
-- 📫 How to reach me **arpita.jadhav1905**
+- 📫 How to reach me **arpita.jadhav1905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
