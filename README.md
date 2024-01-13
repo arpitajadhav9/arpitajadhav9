@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Arpita Jadhav</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="">
+<img align="right" alt="coding" width="500" src="https://github.com/arpitajadhav9/arpitajadhav9/blob/main/output-onlinegiftools.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitajadhav9&label=Profile%20views&color=0e75b6&style=flat" alt="arpitajadhav9" /> </p>
 
